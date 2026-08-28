@@ -1,8 +1,39 @@
 <p align="center">
-  <a href="https://github.com/mausin18">
-    <img src="./assets/hero.svg" alt="Mausin18 — desarrollador de plugins de Minecraft" width="100%" />
-  </a>
+  <img src="./assets/banner-welcome.svg" alt="WELCOME TO MAUSIN18'S CORNER!!" width="100%" />
 </p>
+
+<p align="center">
+  <img src="./assets/ticker.svg" alt="Últimas noticias" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/mausin18"><img src="./assets/starburst-new.svg" alt="NEW!" width="90" /></a>
+  <img src="./assets/underconstruction.svg" alt="Under construction" width="520" />
+  <a href="https://github.com/mausin18/mausin18"><img src="./assets/starburst-new.svg" alt="NEW!" width="90" /></a>
+</p>
+
+<blockquote>
+  <p align="center"><b>📟 ¡bienvenido a mi página web!</b> aquí se muestra lo que hago: plugins de minecraft, la red satelitecraft y demás chunches. la página sigue en obras, como este perfil.</p>
+</blockquote>
+
+<p align="center">
+  <img src="./assets/divider.svg" alt="*" width="100%" />
+</p>
+
+<h2 align="center">🔍 ¿quién es este tipo?</h2>
+
+<pre>
+🛰  red de minecraft : satelitecraft (1.8 → 26.2+)
+🧩  plugins         : java · paper · spigot · bungeecord
+🔨  build           : maven · gradle · mysql · redis
+🎯  especialidad    : pvp, sistemas y optimización
+</pre>
+
+<p align="center">
+  <img src="./assets/divider.svg" alt="*" width="100%" />
+</p>
+
+<h2 align="center">📞 contacto y redes</h2>
 
 <p align="center">
   <a href="https://www.youtube.com/@mausin18"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
@@ -11,29 +42,11 @@
   <a href="https://github.com/mausin18"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<br />
-
 <p align="center">
-  <img src="./assets/sec-about.svg" alt="Sobre mí" width="100%" />
+  <img src="./assets/divider.svg" alt="*" width="100%" />
 </p>
 
-```yaml
-📡 perfil:
-  nombre: Mausin18
-  rol: Desarrollador de plugins de Minecraft
-  red: SateliteCraft
-  versiones: 1.8 → 26.2 (y futuras)
-
-🛠 stack:
-  lenguaje: Java 8+
-  apis: [ Paper, Spigot, BungeeCord ]
-  build: [ Maven, Gradle ]
-  datos: [ MySQL, Redis ]
-```
-
-<p align="center">
-  <img src="./assets/sec-tools.svg" alt="Herramientas" width="100%" />
-</p>
+<h2 align="center">🔧 la caja de herramientas</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -48,23 +61,37 @@
 </p>
 
 <p align="center">
-  <img src="./assets/sec-snake.svg" alt="Serpiente de contribuciones" width="100%" />
+  <img src="./assets/divider.svg" alt="*" width="100%" />
+</p>
+
+<h2 align="center">📖 libro de visitas</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mausin18&label=Visitantes&color=FF8C00&style=for-the-badge" alt="Visitantes" />
+</p>
+
+<blockquote>
+  <p align="center">¿ya viste todo? firma el libro de visitas y vuelve mañana, que actualizo seguido. (con navegador de la época se aprecia mejor).</p>
+</blockquote>
+
+<p align="center">
+  <img src="./assets/divider.svg" alt="*" width="100%" />
+</p>
+
+<h2 align="center">🐍 la mascota de la página</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mausin18/mausin18/output/github-snake-dark.svg" alt="La serpiente se come tus contribuciones" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mausin18/mausin18/output/github-snake-dark.svg" alt="La serpiente come tus contribuciones" width="100%" />
+  <img src="./assets/divider.svg" alt="*" width="100%" />
 </p>
 
----
+<blockquote>
+  <p align="center"><i>"Los buenos servidores y los buenos plugins se hacen con paciencia... y café."</i></p>
+</blockquote>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mausin18&label=Visitas&color=38BDF8&style=flat-square" alt="Visitas" />
-</p>
-
-<p align="center">
-  <sub>"Los buenos servidores y los buenos plugins se hacen con paciencia... y café."</sub>
-</p>
-
-<p align="center">
-  <sub>🛰️ README en órbita — hecho a mano por <b>Mausin18</b></sub>
+  <sub>© 1998–2026 Mausin18 · mejor visto a 800×600 con Internet Explorer · página hecha 100% a mano</sub>
 </p>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="40" viewBox="0 0 900 40" font-family="Consolas, Courier New, monospace">
+  <rect x="1" y="1" width="898" height="38" fill="#000080" stroke="#000000" stroke-width="2"/>
+  <g fill="#ffffff" font-size="16" font-weight="700">
+    <animateTransform attributeName="transform" type="translate" from="900 0" to="-1500 0" dur="16s" repeatCount="indefinite"/>
+    <text x="0" y="25">✦ NUEVA ACTUALIZACIÓN EN SATELITECRAFT ✦  LOS PLUGINS SE HACEN CON CAFÉ ✦  FIRMA EL LIBRO DE VISITAS ✦  PÁGINA EN CONSTRUCCIÓN DESDE 1998 ✦  LEE EN ESTÉREO: TUBULAR BELLS O MEGALOVANIA ✦  NO OLVIDES SALUDAR AL SNAKE ✦</text>
+  </g>
+</svg>
