@@ -21,29 +21,15 @@
 📡 perfil:
   nombre: Mausin18
   rol: Desarrollador de plugins de Minecraft
-  server: SateliteCraft
-  plugins: [ SateCombat, SateDeaths ]
+  red: SateliteCraft
+  versiones: 1.8 → 26.2 (y futuras)
 
 🛠 stack:
   lenguaje: Java 8+
   apis: [ Paper, Spigot, BungeeCord ]
   build: [ Maven, Gradle ]
   datos: [ MySQL, Redis ]
-
-🎯 enfoque:
-  - Sistemas de combate y PvP
-  - Soporte multiverso y proxy
-  - Optimización y rendimiento
 ```
-
-<p align="center">
-  <img src="./assets/sec-projects.svg" alt="Proyectos" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/mausin18/SateCombat"><img src="./assets/card-satecombat.svg" alt="SateCombat" width="420" /></a>
-  <a href="https://github.com/mausin18/SateDeaths"><img src="./assets/card-satedeaths.svg" alt="SateDeaths" width="420" /></a>
-</p>
 
 <p align="center">
   <img src="./assets/sec-stats.svg" alt="Estadísticas" width="100%" />
