@@ -33,13 +33,16 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mausin18&theme=tokyonight" alt="Resumen de actividad" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mausin18&theme=tokyonight" alt="Resumen de actividad" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mausin18&theme=tokyonight" alt="Stats" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mausin18&theme=tokyonight" alt="Lenguajes por repo" height="180" />
-  <img src="https://streak-stats.demolab.com/?user=mausin18&theme=tokyonight&hide_border=true" alt="Racha" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mausin18&theme=tokyonight" alt="Stats" width="370" />
+  <img src="https://streak-stats.demolab.com/?user=mausin18&theme=tokyonight&hide_border=true" alt="Racha" width="370" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mausin18&theme=tokyonight" alt="Lenguajes por repo" width="100%" />
 </p>
 
 <p align="center">
