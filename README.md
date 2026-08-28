@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner-welcome.svg" alt="WELCOME TO MAUSIN18'S CORNER!!" width="100%" />
+  <img src="./assets/banner-space.svg" alt="Mausin18 — transmisión espacial" width="100%" />
 </p>
 
 <p align="center">
@@ -7,33 +7,30 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mausin18"><img src="./assets/starburst-new.svg" alt="NEW!" width="90" /></a>
-  <img src="./assets/underconstruction.svg" alt="Under construction" width="520" />
-  <a href="https://github.com/mausin18/mausin18"><img src="./assets/starburst-new.svg" alt="NEW!" width="90" /></a>
+  <img src="./assets/starburst-new.svg" alt="NUEVO" width="92" />
+  <img src="./assets/underconstruction.svg" alt="En construcción" width="520" />
+  <img src="./assets/starburst-new.svg" alt="NUEVO" width="92" />
 </p>
 
 <blockquote>
-  <p align="center"><b>📟 ¡bienvenido a mi página web!</b> aquí se muestra lo que hago: plugins de minecraft, la red satelitecraft y demás chunches. la página sigue en obras, como este perfil.</p>
+  <p align="center"><b>📡 bienvenido a la estación.</b> esta es la base de operaciones de mausin18: desarrollo de plugins de minecraft para la red satelitecraft. la señal es estable, la página sigue en órbita.</p>
 </blockquote>
 
 <p align="center">
-  <img src="./assets/divider.svg" alt="*" width="100%" />
+  <img src="./assets/divider.svg" alt="▬" width="100%" />
 </p>
 
-<h2 align="center">🔍 ¿quién es este tipo?</h2>
-
-<pre>
-🛰  red de minecraft : satelitecraft (1.8 → 26.2+)
-🧩  plugins         : java · paper · spigot · bungeecord
-🔨  build           : maven · gradle · mysql · redis
-🎯  especialidad    : pvp, sistemas y optimización
-</pre>
+<h2 align="center">🧑‍🚀 operador de la estación</h2>
 
 <p align="center">
-  <img src="./assets/divider.svg" alt="*" width="100%" />
+  <img src="./assets/terminal-info.svg" alt="Info del sistema" width="100%" />
 </p>
 
-<h2 align="center">📞 contacto y redes</h2>
+<p align="center">
+  <img src="./assets/divider.svg" alt="▬" width="100%" />
+</p>
+
+<h2 align="center">📡 canales de transmisión</h2>
 
 <p align="center">
   <a href="https://www.youtube.com/@mausin18"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
@@ -43,10 +40,10 @@
 </p>
 
 <p align="center">
-  <img src="./assets/divider.svg" alt="*" width="100%" />
+  <img src="./assets/divider.svg" alt="▬" width="100%" />
 </p>
 
-<h2 align="center">🔧 la caja de herramientas</h2>
+<h2 align="center">🧰 instrumental de a bordo</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -61,31 +58,35 @@
 </p>
 
 <p align="center">
-  <img src="./assets/divider.svg" alt="*" width="100%" />
+  <img src="./assets/divider.svg" alt="▬" width="100%" />
 </p>
 
-<h2 align="center">📖 libro de visitas</h2>
+<h2 align="center">📻 libro de visitas</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mausin18&label=Visitantes&color=FF8C00&style=for-the-badge" alt="Visitantes" />
+  <img src="./assets/crt-tv.svg" alt="Televisor de la estación" width="240" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mausin18&label=Señales+captadas&color=22D3EE&style=for-the-badge" alt="Señales captadas" />
 </p>
 
 <blockquote>
-  <p align="center">¿ya viste todo? firma el libro de visitas y vuelve mañana, que actualizo seguido. (con navegador de la época se aprecia mejor).</p>
+  <p align="center">¿ya viste todo? firma el libro de visitas y vuelve mañana, que actualizo seguido. (la retro se aprecia mejor con las luces apagadas).</p>
 </blockquote>
 
 <p align="center">
-  <img src="./assets/divider.svg" alt="*" width="100%" />
+  <img src="./assets/divider.svg" alt="▬" width="100%" />
 </p>
 
-<h2 align="center">🐍 la mascota de la página</h2>
+<h2 align="center">🌌 acompañante orbital</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mausin18/mausin18/output/github-snake-dark.svg" alt="La serpiente se come tus contribuciones" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/divider.svg" alt="*" width="100%" />
+  <img src="./assets/divider.svg" alt="▬" width="100%" />
 </p>
 
 <blockquote>
@@ -93,5 +94,5 @@
 </blockquote>
 
 <p align="center">
-  <sub>© 1998–2026 Mausin18 · mejor visto a 800×600 con Internet Explorer · página hecha 100% a mano</sub>
+  <sub>© 1998–2026 Mausin18 · transmisión mantenida en órbita baja · mejor visto con telescopio</sub>
 </p>

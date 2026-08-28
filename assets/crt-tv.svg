@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="200" viewBox="0 0 240 200" font-family="Consolas, 'Courier New', monospace">
+  <defs>
+    <radialGradient id="tvNeb" cx="60%" cy="70%" r="80%">
+      <stop offset="0%" stop-color="#2a1a5e"/>
+      <stop offset="100%" stop-color="#05060f"/>
+    </radialGradient>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <path d="M0 0 H4 M0 2 H4" stroke="#ffffff" stroke-opacity="0.04"/>
+    </pattern>
+  </defs>
+
+  <line x1="70" y1="8" x2="48" y2="38" stroke="#334155" stroke-width="3"/>
+  <line x1="170" y1="8" x2="192" y2="38" stroke="#334155" stroke-width="3"/>
+  <circle cx="70" cy="6" r="3.5" fill="#475569"/>
+  <circle cx="170" cy="6" r="3.5" fill="#475569"/>
+
+  <rect x="30" y="38" width="180" height="150" rx="12" fill="#16203a" stroke="#24304e" stroke-width="3"/>
+  <rect x="20" y="168" width="36" height="18" fill="#16203a" stroke="#24304e" stroke-width="2"/>
+  <rect x="184" y="168" width="36" height="18" fill="#16203a" stroke="#24304e" stroke-width="2"/>
+
+  <rect x="42" y="54" width="156" height="106" rx="8" fill="url(#tvNeb)" stroke="#05060f" stroke-width="2"/>
+
+  <g fill="#e0f2fe">
+    <circle cx="70" cy="80" r="1" opacity="0.7"/>
+    <circle cx="120" cy="70" r="1.2" opacity="0.5"/>
+    <circle cx="170" cy="92" r="1" opacity="0.6"/>
+    <circle cx="96" cy="118" r="1" opacity="0.45"/>
+    <circle cx="150" cy="130" r="1.1" opacity="0.5"/>
+  </g>
+  <circle cx="150" cy="96" r="10" fill="#6366f1"/>
+  <ellipse cx="150" cy="96" rx="20" ry="5" fill="none" stroke="#67e8f9" stroke-opacity="0.5" stroke-width="2" transform="rotate(-15 150 96)"/>
+
+  <text x="120" y="146" text-anchor="middle" font-size="12" font-weight="700" letter-spacing="2" fill="#67e8f9" opacity="0.85">SATELITECRAFT</text>
+  <text x="52" y="66" font-size="10" fill="#64748b">CH 06</text>
+  <text x="182" y="66" text-anchor="end" font-size="10" fill="#64748b">ST</text>
+  <circle cx="198" cy="150" r="3" fill="#f87171"><animate attributeName="opacity" values="1;0.15;1" dur="1.2s" repeatCount="indefinite"/></circle>
+
+  <rect x="42" y="54" width="156" height="106" rx="8" fill="url(#scan)" pointer-events="none"/>
+
+  <circle cx="38" cy="176" r="6" fill="#24304e"/>
+  <rect x="212" y="170" width="16" height="10" rx="3" fill="#24304e"/>
+</svg>

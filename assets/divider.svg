@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="24" viewBox="0 0 900 24">
   <defs>
-    <pattern id="pix" width="80" height="24" patternUnits="userSpaceOnUse">
-      <rect width="20" height="24" fill="#000000"/>
-      <rect x="20" width="20" height="24" fill="#ffffff"/>
-      <rect x="40" width="20" height="24" fill="#ffff00"/>
-      <rect x="60" width="20" height="24" fill="#33ccff"/>
+    <pattern id="darkpix" width="80" height="24" patternUnits="userSpaceOnUse">
+      <rect width="20" height="24" fill="#05060f"/>
+      <rect x="20" width="20" height="24" fill="#0f172a"/>
+      <rect x="40" width="20" height="24" fill="#1e293b"/>
+      <rect x="60" width="20" height="24" fill="#134e4a"/>
     </pattern>
   </defs>
-  <rect width="900" height="24" fill="url(#pix)"/>
-  <rect x="0.5" y="0.5" width="899" height="23" fill="none" stroke="#000000" stroke-width="1.5"/>
+  <rect width="900" height="24" fill="url(#darkpix)"/>
+  <rect x="0.5" y="0.5" width="899" height="23" fill="none" stroke="#1e293b" stroke-width="1.5"/>
 </svg>
