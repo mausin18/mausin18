@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="54" viewBox="0 0 900 54" font-family="Segoe UI, -apple-system, Roboto, Helvetica, Arial, sans-serif">
-  <rect x="0.5" y="0.5" width="899" height="53" rx="15.5" fill="#0f172a" stroke="#38bdf8" stroke-opacity="0.22"/>
-  <rect x="24" y="15" width="5" height="24" rx="2.5" fill="#38bdf8"/>
-  <rect x="47" y="26" width="5.5" height="10" rx="1" fill="#38bdf8" fill-opacity="0.6"/>
-  <rect x="56" y="19" width="5.5" height="17" rx="1" fill="#38bdf8"/>
-  <rect x="65" y="30" width="5.5" height="6" rx="1" fill="#38bdf8" fill-opacity="0.45"/>
-  <text x="74" y="31" font-size="20" font-weight="800" letter-spacing="1.5" fill="#f1f5f9">ESTADÍSTICAS</text>
-  <text x="876" y="32" text-anchor="end" font-size="13" font-weight="600" letter-spacing="1.5" fill="#64748b">STATS</text>
-</svg>
