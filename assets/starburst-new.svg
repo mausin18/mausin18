@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" font-family="Segoe UI, Arial, sans-serif">
-  <g>
-    <animate attributeName="opacity" values="1;0.15;1" dur="1.4s" repeatCount="indefinite"/>
-    <circle cx="60" cy="60" r="54" fill="#0f172a" stroke="#22d3ee" stroke-width="3"/>
-    <circle cx="60" cy="60" r="44" fill="none" stroke="#22d3ee" stroke-opacity="0.35" stroke-width="1.5"/>
-    <text x="60" y="52" text-anchor="middle" font-size="26" font-weight="700" fill="#22d3ee">✦</text>
-    <text x="60" y="82" text-anchor="middle" font-size="22" font-weight="800" letter-spacing="2" fill="#f1f5f9">NUEVO</text>
-  </g>
-</svg>
